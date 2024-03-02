@@ -1,6 +1,16 @@
 
 package pack_SmartCalculator;
-
+/**
+ * The ClientProg class serves as a client program to demonstrate the functionality
+ * of the SmartCalculator class by performing various calculations such as simple interest,
+ * compound interest, mean, factorial, and percentage.
+ * 
+ * @author Jayden 
+ * @author Ashley
+ * @author Abhishek
+ * @version 1.0
+ * @since 2024-03-02
+ */
 public class ClientProg {
 
 	public static void main(String[] args) {
